@@ -31,6 +31,7 @@ class MainActivity : ComponentActivity() {
                     CityListScreen(
                         cities = cityRepository.cities,
                         onAddCity = { cityRepository.addCity(it) },
+                        // ChatGPT was used to help me understand how two city objects are passed using this callback
                         onUpdateCity = {oldCity,updatedCity -> cityRepository.updateCity(oldCity,updatedCity)},
                         modifier = Modifier.padding(innerPadding)
                     )
