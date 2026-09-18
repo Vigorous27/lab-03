@@ -13,5 +13,4 @@ ChatGPT was used to help me understand how to pass two City objects through the 
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+|   `N/A`      |   `N/A`   |
