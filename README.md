@@ -2,12 +2,12 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Lalith Srivatsava Valluru`
+- **CCID:** `lvalluru`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+ChatGPT was used to help me understand how to pass two City objects through the onUpdateCity callback for citylistscreen function and to understand the city selection and editing logic.
 
 ## Verbal Collaboration
 
